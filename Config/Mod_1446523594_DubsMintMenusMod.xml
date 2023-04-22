@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<BuildMenuPosNew>(0.0, 295.0)</BuildMenuPosNew>
+		<BuildMenuSizeNew>(1238.0, 629.0)</BuildMenuSizeNew>
+		<AutoCloseArchitect>False</AutoCloseArchitect>
+		<ShowMintBillsButton>True</ShowMintBillsButton>
+		<ShowBillWorkIcons>True</ShowBillWorkIcons>
+		<BoxSizeX>60</BoxSizeX>
+		<BoxSizeY>70</BoxSizeY>
+		<infocardW>350</infocardW>
+		<MaxHeight>720</MaxHeight>
+		<InfoWidth>350</InfoWidth>
+		<billTabH>0</billTabH>
+		<bBoxSizeY>40</bBoxSizeY>
+		<listWidth>400</listWidth>
+		<ResearchListWidth>350</ResearchListWidth>
+		<AutoFocus>True</AutoFocus>
+		<ShowBuildInfoCard>True</ShowBuildInfoCard>
+		<pinnedArchitectTabs />
+		<ResourceReadout />
+		<WheelDefs>
+			<li>ButcherSpot</li>
+		</WheelDefs>
+		<FBenchTemplates />
+	</ModSettings>
+</SettingsBlock>

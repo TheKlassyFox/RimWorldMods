@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.RimThemes.Settings">
+		<disabledOverrideThemeWindowFillColorAlpha>False</disabledOverrideThemeWindowFillColorAlpha>
+		<overrideThemeWindowFillColorAlpha>0.9555279</overrideThemeWindowFillColorAlpha>
+		<ludeonLogoMode>2</ludeonLogoMode>
+		<rimthemesLogoMode>2</rimthemesLogoMode>
+		<windowsShadowMode>2</windowsShadowMode>
+		<expansionsIconsMode>2</expansionsIconsMode>
+		<curTheme>-1§림왈도 암흑</curTheme>
+		<disableCustomFontsInConsole>False</disableCustomFontsInConsole>
+		<disableParticle>False</disableParticle>
+		<menuAlignment>0</menuAlignment>
+		<windowAnimation>0</windowAnimation>
+		<disableVideoBg>False</disableVideoBg>
+		<disableFontFilterModePoint>False</disableFontFilterModePoint>
+		<lastVersionInfo>RimThemes NX</lastVersionInfo>
+	</ModSettings>
+</SettingsBlock>

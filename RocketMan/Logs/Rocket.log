@@ -1,0 +1,141 @@
+[LOGGER STARTED]
+
+ROCKET_CORE:[NOTANERROR] patching Game:Void FinalizeInit() finished!
+
+ROCKET_CORE:[NOTANERROR] patching Game:Void DeinitAndRemoveMap(Verse.Map) finished!
+
+ROCKET_CORE:[NOTANERROR] patching Game:Void UpdatePlay() finished!
+
+ROCKET_CORE:[NOTANERROR] patching Map:Void FinalizeInit() finished!
+
+ROCKET_CORE:[NOTANERROR] patching Map:Void ConstructComponents() finished!
+
+ROCKET_CORE:[NOTANERROR] patching TickManager:Void DoSingleTick() finished!
+
+ROCKETMAN: Found assembly with name of <color=red>XmlDiffPatch</color> and file name of <color=red>XmlDiffPatch.dll</color>
+
+ROCKETMAN: Loaded assembly XmlDiffPatch, Version=1.0.8.28, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and symbols state is False
+
+ROCKETMAN: Assembly is currently [valid=True] and Named XmlDiffPatch, Version=1.0.8.28, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+ROCKETMAN: Found assembly with name of <color=red>XmlDiffPatch.View</color> and file name of <color=red>XmlDiffPatch.View.dll</color>
+
+ROCKETMAN: Loaded assembly XmlDiffPatch.View, Version=1.0.1493.40755, Culture=neutral, PublicKeyToken=null and symbols state is False
+
+ROCKETMAN: Assembly is currently [valid=True] and Named XmlDiffPatch.View, Version=1.0.1493.40755, Culture=neutral, PublicKeyToken=null
+
+ROCKETMAN: Found assembly with name of <color=red>Gagarin</color> and file name of <color=red>Gagarin.dll</color>
+
+ROCKETMAN: Loaded assembly Gagarin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null and symbols state is False
+
+ROCKETMAN: Assembly is currently [valid=True] and Named Gagarin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+
+ROCKETMAN: Found assembly with name of <color=red>Proton</color> and file name of <color=red>Proton.dll</color>
+
+ROCKETMAN: Loaded assembly Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null and symbols state is False
+
+ROCKETMAN: Assembly is currently [valid=True] and Named Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+ROCKETMAN: Found assembly with name of <color=red>Soyuz</color> and file name of <color=red>Soyuz.dll</color>
+
+ROCKETMAN: Loaded assembly Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null and symbols state is False
+
+ROCKETMAN: Assembly is currently [valid=True] and Named Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Gagarin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+
+<color=orange>ROCKETMAN:</color> Version 0.6.3.2421
+
+R is 2.3=21, 8.9=241 4.5=69
+
+ROCKETMAN: Found action with attribute OnDefsLoaded, KeyBinder:Start
+
+ROCKETMAN: Found action with attribute OnDefsLoaded, RocketMod:UpdateExceptions
+
+ROCKETMAN: Found action with attribute OnDefsLoaded, Analyzer_H_AlertsReadoutUpdate_Patch:Patch
+
+ROCKETMAN: Found action with attribute OnDefsLoaded, ProtonPatcher:PatchAll
+
+ROCKETMAN: Found action with attribute OnDefsLoaded, SoyuzPatcher:PatchAll
+
+ROCKETMAN: Found action with attribute OnWorldLoaded, SoyuzSettingsUtility:SetRecommendedJobConfig
+
+ROCKETMAN: Found action with attribute OnTickRare, RocketMod:UpdateExceptions
+
+ROCKETMAN: Found action with attribute OnTickRare, WorldReachability_CanReach_Patch:FlushMessages
+
+ROCKETMAN: Found action with attribute OnTickLonger, GUIUtility:Cleanup
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Gagarin:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Alerts:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_DilationSettings:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_Grapher:YieldTab
+
+ROCKETMAN: Found function with attribute YieldTabContent, TabContent_WorldPawns:YieldTab
+
+ROCKETMAN: Found action with attribute OnScribe, StatSettingsUtility:OnScribe
+
+ROCKETMAN: Found action with attribute OnScribe, ProtonSettingsUtility:OnScribe
+
+ROCKETMAN: Found action with attribute OnScribe, SoyuzSettingsUtility:OnScribe
+
+ROCKETMAN: Found action with attribute OnSettingsScribedLoaded, StatSettingsUtility:OnSettingsScribedLoaded
+
+ROCKETMAN: Found action with attribute OnSettingsScribedLoaded, SoyuzSettingsUtility:OnSettingsScribedLoaded
+
+ROCKETMAN: Found action with attribute OnStaticConstructor, StartupHelper:StartUpFinished
+
+ROCKETMAN: Found action with attribute OnInitialization, LoadableXmlAsset_Constructor_Patch:Start
+
+ROCKETMAN: Found action with attribute OnInitialization, StartupHelper:StartUpStarted
+
+ROCKETMAN: Found action with attribute OnInitialization, AlertsReadout_Constructor_Patch:Patch
+
+ROCKETMAN: Found action with attribute OnInitialization, ProtonPatcher:Intialize
+
+ROCKETMAN: Found action with attribute OnInitialization, ContextualExtensions:Initialize
+
+ROCKETMAN: Found action with attribute OnInitialization, SoyuzPatcher:Intialize
+
+GAGARIN: <color=green>Loading cache settings!</color>
+
+Gagarin:[NOTANERROR] patching TKeySystem:Void Parse(System.Xml.XmlDocument) finished!
+
+Gagarin:[NOTANERROR] patching DirectXmlLoader:Verse.Def DefFromNode(System.Xml.XmlNode, Verse.LoadableXmlAsset) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:System.Collections.Generic.List`1[Verse.LoadableXmlAsset] LoadModXML() finished!
+
+Gagarin:[NOTANERROR] patching TKeySystem:Void Parse(System.Xml.XmlDocument) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ApplyPatches(System.Xml.XmlDocument, System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ParseAndProcessXML(System.Xml.XmlDocument, System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:System.Xml.XmlDocument CombineIntoUnifiedXML(System.Collections.Generic.List`1[Verse.LoadableXmlAsset], System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching ModContentLoader`1:UnityEngine.Texture2D LoadTexture(RimWorld.IO.VirtualFile) finished!
+
+Gagarin:[NOTANERROR] patching ModContentPack:System.Collections.Generic.IEnumerable`1[Verse.LoadableXmlAsset] LoadDefs() finished!
+
+Gagarin:[NOTANERROR] patching ModsConfig:Void Reset() finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:System.Collections.Generic.List`1[Verse.LoadableXmlAsset] LoadModXML() finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:System.Xml.XmlDocument CombineIntoUnifiedXML(System.Collections.Generic.List`1[Verse.LoadableXmlAsset], System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ApplyPatches(System.Xml.XmlDocument, System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ParseAndProcessXML(System.Xml.XmlDocument, System.Collections.Generic.Dictionary`2[System.Xml.XmlNode,Verse.LoadableXmlAsset]) finished!
+
+Gagarin:[NOTANERROR] patching LoadedModManager:Void ClearCachedPatches() finished!
+
+Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!

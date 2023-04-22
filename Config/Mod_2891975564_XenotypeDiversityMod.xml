@@ -1,0 +1,1762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XenotypeSpawnControl.ModSettings">
+		<XenotypesByFactionDef>
+			<keys>
+				<li>Ancients</li>
+				<li>AncientsHostile</li>
+				<li>Mechanoid</li>
+				<li>Insect</li>
+				<li>OutlanderCivil</li>
+				<li>OutlanderRough</li>
+				<li>TribeCivil</li>
+				<li>TribeRough</li>
+				<li>TribeSavage</li>
+				<li>Pirate</li>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>Beggars</li>
+				<li>TribeCannibal</li>
+				<li>NudistTribe</li>
+				<li>CannibalPirate</li>
+				<li>Pilgrims</li>
+				<li>TribeRoughNeanderthal</li>
+				<li>PirateYttakin</li>
+				<li>TribeSavageImpid</li>
+				<li>OutlanderRoughPig</li>
+				<li>PirateWaster</li>
+				<li>Sanguophages</li>
+				<li>Anthro</li>
+				<li>AnthroPlayerColony</li>
+				<li>::Generated::NoFaction</li>
+				<li>OutlanderRefugee</li>
+				<li>Empire</li>
+			</keys>
+			<values>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>450</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>450</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>450</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li>
+								<chance>450</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>25</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>100</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>550</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>150</chance>
+							</li>
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>250</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>30</chance>
+							</li>
+							<li>
+								<chance>10</chance>
+							</li>
+							<li>
+								<chance>20</chance>
+							</li>
+							<li>
+								<chance>30</chance>
+							</li>
+							<li>
+								<chance>10</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>900</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>550</chance>
+							</li>
+							<li>
+								<chance>200</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>혼혈동물</li>
+							<li>혼종동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>1000</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>400</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>혼혈동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>혼종동물</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li>
+								<chance>150</chance>
+							</li>
+							<li>
+								<chance>300</chance>
+							</li>
+							<li>
+								<chance>100</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>50</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+			</values>
+		</XenotypesByFactionDef>
+		<XenotypesByPawnKindDef>
+			<keys>
+				<li>Grenadier_Destructive</li>
+				<li>Grenadier_EMP</li>
+				<li>Grenadier_Smoke</li>
+				<li>Mercenary_Gunner</li>
+				<li>Mercenary_Gunner_Acidifier</li>
+				<li>Mercenary_Sniper</li>
+				<li>Mercenary_Sniper_Acidifier</li>
+				<li>Mercenary_Slasher</li>
+				<li>Mercenary_Slasher_Acidifier</li>
+				<li>Mercenary_Heavy</li>
+				<li>PirateBoss</li>
+				<li>Mercenary_Elite</li>
+				<li>Mercenary_Elite_Acidifier</li>
+				<li>Villager</li>
+				<li>Town_Guard</li>
+				<li>Town_Trader</li>
+				<li>Town_Councilman</li>
+				<li>Drifter</li>
+				<li>Scavenger</li>
+				<li>Thrasher</li>
+				<li>Pirate</li>
+				<li>Colonist</li>
+				<li>Tribesperson</li>
+				<li>SpaceRefugee</li>
+				<li>SpaceRefugee_Clothed</li>
+				<li>AncientSoldier</li>
+				<li>Slave</li>
+				<li>WildMan</li>
+				<li>StrangerInBlack</li>
+				<li>Tribal_Penitent</li>
+				<li>Tribal_Archer</li>
+				<li>Tribal_Warrior</li>
+				<li>Tribal_Hunter</li>
+				<li>Tribal_Trader</li>
+				<li>Tribal_Berserker</li>
+				<li>Tribal_HeavyArcher</li>
+				<li>Tribal_ChiefMelee</li>
+				<li>Tribal_ChiefRanged</li>
+				<li>Tribal_Breacher</li>
+				<li>Mech_Termite_Breach</li>
+				<li>Bear_Grizzly</li>
+				<li>Bear_Polar</li>
+				<li>Ostrich</li>
+				<li>Emu</li>
+				<li>Cassowary</li>
+				<li>Cougar</li>
+				<li>Panther</li>
+				<li>Lynx</li>
+				<li>Cat</li>
+				<li>YorkshireTerrier</li>
+				<li>GuineaPig</li>
+				<li>LabradorRetriever</li>
+				<li>Husky</li>
+				<li>Monkey</li>
+				<li>Chicken</li>
+				<li>Duck</li>
+				<li>Turkey</li>
+				<li>Goose</li>
+				<li>Cow</li>
+				<li>Boomalope</li>
+				<li>Muffalo</li>
+				<li>Bison</li>
+				<li>Dromedary</li>
+				<li>Goat</li>
+				<li>Elk</li>
+				<li>Yak</li>
+				<li>Caribou</li>
+				<li>Horse</li>
+				<li>Donkey</li>
+				<li>Elephant</li>
+				<li>Rhinoceros</li>
+				<li>Hare</li>
+				<li>Snowhare</li>
+				<li>Megascarab</li>
+				<li>Spelopede</li>
+				<li>Megaspider</li>
+				<li>Thrumbo</li>
+				<li>Cobra</li>
+				<li>Tortoise</li>
+				<li>Alphabeaver</li>
+				<li>Pig</li>
+				<li>WildBoar</li>
+				<li>Ibex</li>
+				<li>Deer</li>
+				<li>Gazelle</li>
+				<li>Chinchilla</li>
+				<li>Sheep</li>
+				<li>Alpaca</li>
+				<li>Megasloth</li>
+				<li>Capybara</li>
+				<li>Squirrel</li>
+				<li>Rat</li>
+				<li>Boomrat</li>
+				<li>Raccoon</li>
+				<li>Iguana</li>
+				<li>Warg</li>
+				<li>Wolf_Timber</li>
+				<li>Wolf_Arctic</li>
+				<li>Fox_Fennec</li>
+				<li>Fox_Red</li>
+				<li>Fox_Arctic</li>
+				<li>Mech_CentipedeBlaster</li>
+				<li>Mech_CentipedeGunner</li>
+				<li>Mech_CentipedeBurner</li>
+				<li>Mech_Lancer</li>
+				<li>Mech_Scyther</li>
+				<li>Mech_Pikeman</li>
+				<li>Tribal_Miner</li>
+				<li>Miner</li>
+				<li>Hunter</li>
+				<li>Tribal_Logger</li>
+				<li>Logger</li>
+				<li>Tribal_Farmer</li>
+				<li>Farmer</li>
+				<li>Beggar</li>
+				<li>PovertyPilgrim</li>
+				<li>WellEquippedTraveler</li>
+				<li>Dryad_Basic</li>
+				<li>Dryad_Woodmaker</li>
+				<li>Dryad_Berrymaker</li>
+				<li>Dryad_Medicinemaker</li>
+				<li>Dryad_Gaumaker</li>
+				<li>Dryad_Carrier</li>
+				<li>Dryad_Clawer</li>
+				<li>Dryad_Barkskin</li>
+				<li>Tribal_Archer_Fire</li>
+				<li>Tribal_Hunter_Fire</li>
+				<li>Tribal_Warrior_Fire</li>
+				<li>Tribal_Penitent_Fire</li>
+				<li>Tribal_Child_Fire</li>
+				<li>Villager_Pig</li>
+				<li>Villager_Child_Pig</li>
+				<li>Town_Guard_Pig</li>
+				<li>Town_Councilman_Pig</li>
+				<li>Town_Trader_Pig</li>
+				<li>Mercenary_Gunner_Pig</li>
+				<li>Mercenary_Elite_Pig</li>
+				<li>Mechanitor</li>
+				<li>Mechanitor_Basic</li>
+				<li>Sanguophage</li>
+				<li>Sanguophage_Player</li>
+				<li>SanguophageThrall</li>
+				<li>Villager_Child</li>
+				<li>Tribal_Child</li>
+				<li>Mercenary_GunnerTox</li>
+				<li>Mercenary_SlasherTox</li>
+				<li>Mercenary_EliteTox</li>
+				<li>Grenadier_Tox</li>
+				<li>Mercenary_HeavyTox</li>
+				<li>PirateBossTox</li>
+				<li>Pirate_Yttakin</li>
+				<li>Scavenger_Yttakin</li>
+				<li>Drifter_Yttakin</li>
+				<li>Thrasher_Yttakin</li>
+				<li>Mercenary_Gunner_Yttakin</li>
+				<li>Mercenary_Heavy_Yttakin</li>
+				<li>Mercenary_Slasher_Yttakin</li>
+				<li>Mercenary_Sniper_Yttakin</li>
+				<li>Mercenary_Elite_Yttakin</li>
+				<li>WasteRat</li>
+				<li>Toxalope</li>
+				<li>Mech_Tunneler</li>
+				<li>Mech_Militor</li>
+				<li>Mech_Lifter</li>
+				<li>Mech_Constructoid</li>
+				<li>Mech_Fabricor</li>
+				<li>Mech_Agrihand</li>
+				<li>Mech_Cleansweeper</li>
+				<li>Mech_WarUrchin</li>
+				<li>Mech_Paramedic</li>
+				<li>Mech_Legionary</li>
+				<li>Mech_Tesseron</li>
+				<li>Mech_Scorcher</li>
+				<li>Mech_Apocriton</li>
+				<li>Mech_Centurion</li>
+				<li>Mech_Warqueen</li>
+				<li>Mech_Diabolus</li>
+				<li>Anthro_CommonerA</li>
+				<li>Anthro_CommonerB</li>
+				<li>Anthro_CommonerC</li>
+				<li>Anthro_CommonerD</li>
+				<li>Anthro_CommonerE</li>
+				<li>Anthro_GuardA</li>
+				<li>Anthro_GuardB</li>
+				<li>Anthro_GuardC</li>
+				<li>Anthro_GuardD</li>
+				<li>Anthro_GuardE</li>
+				<li>Anthro_Trader</li>
+				<li>Anthro_Leader</li>
+				<li>Anthro</li>
+				<li>Slave_Empire</li>
+				<li>Empire_Common_Lodger</li>
+				<li>Empire_Common_Trader</li>
+				<li>Empire_Common_Laborer</li>
+				<li>Empire_Fighter_Trooper</li>
+				<li>Empire_Fighter_Grenadier</li>
+				<li>Empire_Fighter_Janissary</li>
+				<li>Empire_Fighter_Champion</li>
+				<li>Empire_Fighter_Cataphract</li>
+				<li>Empire_Fighter_StellicGuardRanged</li>
+				<li>Empire_Fighter_StellicGuardMelee</li>
+				<li>Empire_Royal_NobleWimp</li>
+				<li>Empire_Royal_Yeoman</li>
+				<li>Empire_Royal_Acolyte</li>
+				<li>Empire_Royal_Knight</li>
+				<li>Empire_Royal_Praetor</li>
+				<li>Empire_Royal_Baron</li>
+				<li>Empire_Royal_Count</li>
+				<li>Empire_Royal_Duke</li>
+				<li>Empire_Royal_Consul</li>
+				<li>Empire_Royal_Stellarch</li>
+				<li>Empire_Royal_Bestower</li>
+				<li>Refugee</li>
+				<li>VEE_TribalHunter</li>
+				<li>VEE_Hunter</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>혼혈동물</li>
+							<li>혼종동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>1000</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>초식동물</li>
+							<li>극초식동물</li>
+							<li>육식동물</li>
+							<li>극육식동물</li>
+							<li>혼혈동물</li>
+							<li>혼종동물</li>
+							<li>Baseliner</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Neanderthal</li>
+							<li>Pigskin</li>
+							<li>Impid</li>
+							<li>Waster</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+						</keys>
+						<values>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>1000</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li>
+								<chance>0</chance>
+							</li>
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+							<li />
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+			</values>
+		</XenotypesByPawnKindDef>
+	</ModSettings>
+</SettingsBlock>

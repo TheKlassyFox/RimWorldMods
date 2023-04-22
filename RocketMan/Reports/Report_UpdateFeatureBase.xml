@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="UpdateFeatureBase" Type="DuplicateReportType.Base" Length="2" IsCoreModInvolved="False">
+  <DuplicationRecord PackageId="PeteTimesSix.SimpleSidearms" ModName="Simple sidearms" XmlFilePath="D:\SteamLibrary\steamapps\workshop\content\294100\927155256\v1.4\Defs\UpdateTextDefs\updateDefs.xml">
+    <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+      <modNameReadable>Simple Sidearms</modNameReadable>
+      <modIdentifier>SimpleSidearms</modIdentifier>
+      <linkUrl>https://ludeon.com/forums/index.php?topic=32497</linkUrl>
+    </HugsLib.UpdateFeatureDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="TheRealLemon.MapReroll" ModName="Map Reroll (1.4)" XmlFilePath="D:\SteamLibrary\steamapps\workshop\content\294100\2915575236\1.4\Defs\UpdateFeatureDefs\UpdateFeatures.xml">
+    <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+      <defName>UpdateFeature</defName>
+      <modNameReadable>Map Reroll</modNameReadable>
+      <modIdentifier>MapReroll</modIdentifier>
+      <linkUrl>https://ludeon.com/forums/index.php?topic=18073</linkUrl>
+    </HugsLib.UpdateFeatureDef>
+  </DuplicationRecord>
+</DuplicateReport>

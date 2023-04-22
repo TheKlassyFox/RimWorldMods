@@ -1,0 +1,1513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedideo>
+	<meta>
+		<gameVersion>1.4.3626 rev1217</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>latta.fsharp.core</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>rmk.anthrorace</li>
+			<li>mlie.centralizedclimatecontrol</li>
+			<li>derekbickley.ltocolonygroupsfinal</li>
+			<li>proxyer.desurgeries.desurgeries</li>
+			<li>jecrell.doorsexpanded</li>
+			<li>dubwise.dubsbadhygiene.lite</li>
+			<li>dubwise.dubsskylights</li>
+			<li>tory.icons.historical</li>
+			<li>orion.hospitality</li>
+			<li>krkr.locks2</li>
+			<li>ratys.madskills</li>
+			<li>mlie.pawnkindracediversification</li>
+			<li>mehni.pickupandhaul</li>
+			<li>berryragepyre.prisonerrecreation</li>
+			<li>avius.prisonlabor</li>
+			<li>lucifer.realisticrooms</li>
+			<li>rimfridge.kv.rw</li>
+			<li>avilmask.selfdyeing</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>indeed.stackxxl</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.ideo.iconsandsymbols</li>
+			<li>bs.xenotypespawncontrol</li>
+			<li>automatic.bionicicons</li>
+			<li>void.charactereditor</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>aze.hotkeysdev</li>
+			<li>jaxe.bubbles</li>
+			<li>krafs.levelup</li>
+			<li>mehni.numbers</li>
+			<li>jaxe.rimhud</li>
+			<li>cat2002.showhair</li>
+			<li>fluffy.worktab</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>chais.custommusic</li>
+			<li>peppsen.pmusic</li>
+			<li>latta.devl10n</li>
+			<li>destiny.rktm.mod</li>
+			<li>nephlite.rimthemeskor</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>FSharp.Core</li>
+			<li>Core</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>HugsLib</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Humanoid Alien Races</li>
+			<li>Anthro Race</li>
+			<li>Centralized Climate Control (Continued)</li>
+			<li>[LTO] Colony Groups</li>
+			<li>DE Surgeries</li>
+			<li>Doors Expanded</li>
+			<li>Dubs Bad Hygiene Lite</li>
+			<li>Dubs Skylights</li>
+			<li>Historical Religious Symbols</li>
+			<li>Hospitality</li>
+			<li>Locks 2: Lock Them Out!</li>
+			<li>Mad Skills</li>
+			<li>Pawnkind Race Diversification (Continued)</li>
+			<li>Pick Up And Haul</li>
+			<li>Prisoner Recreation</li>
+			<li>Prison Labor</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>RimFridge Updated</li>
+			<li>Self Dyeing</li>
+			<li>Simple sidearms</li>
+			<li>Stack XXL</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Ideology Expanded - Icons and Symbols</li>
+			<li>Xenotype Spawn Control</li>
+			<li>Bionic icons</li>
+			<li>Character Editor</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Minimap</li>
+			<li>Hotkeys1.4</li>
+			<li>Interaction Bubbles</li>
+			<li>Level Up!</li>
+			<li>Numbers</li>
+			<li>RimHUD</li>
+			<li>[CAT] Show Hair With Hats or Hide All Hats</li>
+			<li>Work Tab</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Custom Music</li>
+			<li>P-Music</li>
+			<li>Dev In Your Language</li>
+			<li>[RKTM] Mod</li>
+			<li>RimThemes | Korean</li>
+		</modNames>
+		<PrisonLaborVersion>v1_4_3</PrisonLaborVersion>
+	</meta>
+	<ideo>
+		<overriddenWorshipRoomLabel>우주</overriddenWorshipRoomLabel>
+		<foundation Class="IdeoFoundation_Deity">
+			<def>Deity</def>
+			<place>Yttak</place>
+			<deities />
+		</foundation>
+		<name>과학진보사상</name>
+		<adjective>탐구하는</adjective>
+		<memberName>사색가</memberName>
+		<leaderTitleMale>결정자</leaderTitleMale>
+		<leaderTitleFemale>결정자</leaderTitleFemale>
+		<description>과학에서 진리란 다음 단계로 더 나은 진리로 향해 가는 길을 열어주는 가정이라고 보아야 한다.
+
+- &lt;i&gt;콘라트 로렌츠&lt;/i&gt;</description>
+		<descriptionLocked>True</descriptionLocked>
+		<culture>Rustican</culture>
+		<iconDef>Ideoligion_CompanyG</iconDef>
+		<colorDef>Blue</colorDef>
+		<memes>
+			<li>Structure_Ideological</li>
+			<li>Loyalist</li>
+			<li>Individualist</li>
+			<li>Proselytizer</li>
+		</memes>
+		<precepts>
+			<li Class="Precept_Ritual">
+				<name>윤리적인 장례식</name>
+				<def>Funeral</def>
+				<ID>1411</ID>
+				<randomSeed>-942221874</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFuneral</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>{IDEO} 구성원이 죽으면, 다른 {MEMBERS} 들은 {RITUAL_labelDef}(을) 를 위해 무덤 주변으로 모일 것 입니다.</ritualExpectedDesc>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>FuneralStandard</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_GraveWithTarget">
+					<def>GraveWithTargetsCorpse</def>
+					<parent>Precept_1411</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_MemberDied">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneral</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>윤리적인 장례식</name>
+				<def>FuneralNoCorpse</def>
+				<ID>1412</ID>
+				<randomSeed>687269180</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>{IDEO}의 구성원이 몸을 잃은 체로 죽으면, 다른 {MEMBERS}들은 {RITUAL_labelDef}(을)를 위해 빈 무덤 주변으로 모일 것 입니다.</ritualExpectedDesc>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>FuneralNoCorpse</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyEmptyGrave">
+					<def>AnyEmptyGrave</def>
+					<parent>Precept_1412</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_MemberCorpseDestroyed">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneralNoCorpse</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>진보의 연설</name>
+				<def>Festival</def>
+				<ID>1415</ID>
+				<randomSeed>1107484712</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>매년 {DATE}에, {MEMBERS}(은)는 {RITUAL_labelDef}(을)를 기념합니다.</ritualExpectedDesc>
+				<iconPathOverride>UI/Icons/Rituals/RitualFestival</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyChat</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyGatherSpotOrAltar">
+					<def>GatheringSpotOrAltar</def>
+					<parent>Precept_1415</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>DateRitual</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>DiscoverAncientComplex</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>CelebratedDate</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>우리 존재 화이팅</name>
+				<def>Festival</def>
+				<ID>2626</ID>
+				<randomSeed>-1508554028</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>풍등을 날리는 행사입니다. 참여자들은 함께 목재 풍등을 만들고 띄우며 즐길 것입니다.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>매년 {DATE}에, {MEMBERS}(은)는 특별한 기념을 합니다.</ritualExpectedDesc>
+				<shortDescOverride>풍등 축제</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartySkylanterns</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationSkyLanterns</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_SkyLanterns">
+					<def>CampfireSkylanterns</def>
+					<parent>Precept_2626</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>CelebrationSkyLanterns</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>21</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>NearbyFactionGoodwill</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Skylantern">
+					<def>CelebrationSkyLanterns</def>
+					<compDatas>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>과학의 연설</name>
+				<def>Festival</def>
+				<ID>1413</ID>
+				<randomSeed>1419723464</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>매년 {DATE}에, {MEMBERS}(은)는 {RITUAL_labelDef}(을)를 기념합니다.</ritualExpectedDesc>
+				<iconPathOverride>UI/Icons/Rituals/RitualFestival</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyChat</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyGatherSpotOrAltar">
+					<def>GatheringSpotOrAltar</def>
+					<parent>Precept_1413</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>DateRitual</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>43</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>NearbyFactionGoodwill</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>CelebratedDate</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>탐구하는 교감</name>
+				<def>Festival</def>
+				<ID>1414</ID>
+				<randomSeed>-242547106</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>시끄러운 음악과 함께하는 댄스 파티입니다. 참여자들은 어울려 춤추고 즐기며 교감합니다.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>매년 {DATE}에, {MEMBERS}(은)는 {RITUAL_labelDef}(을)를 기념합니다.</ritualExpectedDesc>
+				<shortDescOverride>무도회</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartyDanceTech</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<minTechLevel>Industrial</minTechLevel>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyDanceTech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_LightBall">
+					<def>LightBall</def>
+					<parent>Precept_1414</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_DancePartyTech">
+					<def>DancePartyTech</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>14</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>RandomRecruit</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_DanceParty">
+					<def>CelebrationPartyDanceTech</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_RitualSeat">
+				<name>의식용 좌석</name>
+				<def>IdeoRitualSeat</def>
+				<ID>1416</ID>
+				<randomSeed>321646759</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Pew</thingDef>
+			</li>
+			<li Class="Precept_Weapon">
+				<name>무기</name>
+				<def>NobleDespisedWeapons</def>
+				<ID>1417</ID>
+				<randomSeed>-391220921</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<noble>Ultratech</noble>
+				<despised>Neolithic</despised>
+			</li>
+			<li>
+				<name>처형</name>
+				<def>Execution_Horrible</def>
+				<ID>1418</ID>
+				<randomSeed>-777779152</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>alien slavery</name>
+				<def>HAR_AlienSlavery_Abhorrent</def>
+				<ID>1419</ID>
+				<randomSeed>718640827</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>노예 제도</name>
+				<def>Slavery_Abhorrent</def>
+				<ID>1420</ID>
+				<randomSeed>262714519</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>여자 의류</name>
+				<def>Nudity_Female_UncoveredGroinDisapproved</def>
+				<ID>1421</ID>
+				<randomSeed>-944817892</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>남자 의류</name>
+				<def>Nudity_Male_UncoveredGroinDisapproved</def>
+				<ID>1422</ID>
+				<randomSeed>711735488</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>식인</name>
+				<def>Cannibalism_Abhorrent</def>
+				<ID>1423</ID>
+				<randomSeed>2080565123</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>이타적 행위</name>
+				<def>Charity_Worthwhile</def>
+				<ID>1424</ID>
+				<randomSeed>-1883848320</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>약물 사용</name>
+				<def>DrugUse_MedicalOrSocial</def>
+				<ID>1425</ID>
+				<randomSeed>824746186</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>eating aliens</name>
+				<def>HAR_EatingAliens_Abhorrent</def>
+				<ID>1426</ID>
+				<randomSeed>-778324348</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>맹목화</name>
+				<def>Blinding_Horrible</def>
+				<ID>1427</ID>
+				<randomSeed>-2135068771</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>출산</name>
+				<def>ChildBirth</def>
+				<ID>1428</ID>
+				<randomSeed>1600820258</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<allowOtherInstances>True</allowOtherInstances>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>ChildBirth</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<parent>Precept_1428</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_ChildBirth">
+					<def>ChildBirth</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>교화 의식</name>
+				<def>Conversion</def>
+				<ID>1429</ID>
+				<randomSeed>1390099986</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<ritualExplanation>성공한다면 대상의 믿음을 흔들거나 바로 교화할 수 있습니다. 실패하면 역효과를 낼 것입니다.</ritualExplanation>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Conversion</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotOrAltar">
+					<def>RitualSpotOrAltar</def>
+					<parent>Precept_1429</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_Altar">
+					<def>AltarOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Conversion">
+					<def>Conversion</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Conversion">
+					<def>Conversion</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>시체</name>
+				<def>Corpses_Ugly</def>
+				<ID>1430</ID>
+				<randomSeed>1827378451</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>공개 처형</name>
+				<def>Execution</def>
+				<ID>1431</ID>
+				<randomSeed>1331499029</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Execution</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_1431</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Execution">
+					<def>Execution</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Execution">
+					<def>Execution</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>버섯 섭취</name>
+				<def>FungusEating_Despised</def>
+				<ID>1432</ID>
+				<randomSeed>2072486149</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>alien races</name>
+				<def>HAR_AlienRaces_Standard</def>
+				<ID>1433</ID>
+				<randomSeed>-492547614</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>사상의 다양성</name>
+				<def>IdeoDiversity_Disapproved</def>
+				<ID>1434</ID>
+				<randomSeed>-604752323</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>곤충 고기</name>
+				<def>InsectMeatEating_Despised_Classic</def>
+				<ID>1435</ID>
+				<randomSeed>197086606</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>지도자 연설</name>
+				<def>LeaderSpeech</def>
+				<ID>1436</ID>
+				<randomSeed>1460654418</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>LeaderSpeech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_IdeoBuildingOrRitualSpot">
+					<def>AnyIdeoBuildingOrRitualSpot</def>
+					<parent>Precept_1436</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Speech">
+					<def>LeaderSpeech</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Speech">
+					<def>AttendedSpeech</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>육체적 사랑</name>
+				<def>Lovin_SpouseOnly_Mild</def>
+				<ID>1437</ID>
+				<randomSeed>2129840740</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>영양죽을 먹음</name>
+				<def>NutrientPasteEating_Disgusting</def>
+				<ID>1438</ID>
+				<randomSeed>-1164803206</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>전도</name>
+				<def>Proselytizing_Occasionally</def>
+				<ID>1439</ID>
+				<randomSeed>812179477</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>연구</name>
+				<def>Research_Normal</def>
+				<ID>1440</ID>
+				<randomSeed>359362920</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>취임식</name>
+				<def>RoleChange</def>
+				<ID>1441</ID>
+				<randomSeed>368271578</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>RoleChange</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_1441</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_AltarOrIdeogram">
+					<def>AltarIdeogramOrRitualSpot</def>
+				</targetFilter>
+				<behavior>
+					<def>RoleChange</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_RoleChange">
+					<def>RoleChange</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataRoleChangeParticipants">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>상흔 문신</name>
+				<def>Scarification_Horrible</def>
+				<ID>1442</ID>
+				<randomSeed>1514562964</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>효수대</name>
+				<def>Skullspike_Disapproved</def>
+				<ID>1443</ID>
+				<randomSeed>-1011586252</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>나무 교감 의식</name>
+				<def>TreeConnection</def>
+				<ID>1444</ID>
+				<randomSeed>465719099</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<iconPathOverride>UI/Icons/Rituals/TreeConnection</iconPathOverride>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TreeConnection</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_UnconnectedGauranlenTree">
+					<def>GauranlenTree</def>
+					<parent>Precept_1444</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>TreeConnection</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ConnectToTree">
+					<def>ConnectToTree</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>재판</name>
+				<def>Trial</def>
+				<ID>1445</ID>
+				<randomSeed>-1022252493</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Trial</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>Trial</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>재판</name>
+				<def>TrialMentalState</def>
+				<ID>1446</ID>
+				<randomSeed>1392659395</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialMentalState</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialMentalState</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>TrialMentalState</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>재판</name>
+				<def>TrialPrisoner</def>
+				<ID>1447</ID>
+				<randomSeed>1799361530</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialPrisoner</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialPrisoner</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+			</li>
+			<li>
+				<name>장기 사용</name>
+				<def>OrganUse_Acceptable</def>
+				<ID>1448</ID>
+				<randomSeed>735681040</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>여성 배우자</name>
+				<def>SpouseCount_Female_MaxOne</def>
+				<ID>1449</ID>
+				<randomSeed>2673392</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>남성 배우자</name>
+				<def>SpouseCount_Male_MaxOne</def>
+				<ID>1450</ID>
+				<randomSeed>-965094189</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>결혼 이름</name>
+				<def>MarriageName_KeepNames</def>
+				<ID>1451</ID>
+				<randomSeed>280614950</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>결정자</name>
+				<def>IdeoRole_Leader</def>
+				<ID>1452</ID>
+				<randomSeed>1230787189</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+				<restrictToSupremeGender>True</restrictToSupremeGender>
+				<chosenPawn>
+					<pawn>null</pawn>
+					<abilities>
+						<li>
+							<def>LeaderSpeech</def>
+							<Id>257</Id>
+							<sourcePrecept>Precept_1452</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_257_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_257</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>WorkDrive</def>
+							<Id>258</Id>
+							<sourcePrecept>Precept_1452</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_258_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_258</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>CombatCommand</def>
+							<Id>259</Id>
+							<sourcePrecept>Precept_1452</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_259_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_259</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+						<li>
+							<def>Trial</def>
+							<Id>260</Id>
+							<sourcePrecept>Precept_1452</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_260_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_260</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>과학자</name>
+				<def>IdeoRole_Moralist</def>
+				<ID>1453</ID>
+				<randomSeed>691722599</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+				<restrictToSupremeGender>True</restrictToSupremeGender>
+				<chosenPawn>
+					<pawn>Thing_Anthro107869</pawn>
+					<abilities>
+						<li>
+							<def>Convert</def>
+							<Id>261</Id>
+							<sourcePrecept>Precept_1453</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_261_0</loadID>
+										<currentTarget>Thing_Anthro333208</currentTarget>
+										<lastShotTick>-999999</lastShotTick>
+										<ability>Ability_261</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<cooldownTicksDuration>180000</cooldownTicksDuration>
+							<lastCastTick>14496093</lastCastTick>
+						</li>
+						<li>
+							<def>Counsel</def>
+							<Id>262</Id>
+							<sourcePrecept>Precept_1453</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_262_0</loadID>
+										<currentTarget>Thing_Anthro988008</currentTarget>
+										<lastShotTick>-999999</lastShotTick>
+										<ability>Ability_262</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<cooldownTicksDuration>180000</cooldownTicksDuration>
+							<lastCastTick>20656925</lastCastTick>
+						</li>
+						<li>
+							<def>Reassure</def>
+							<Id>263</Id>
+							<sourcePrecept>Precept_1453</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_263_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_263</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<cooldownTicksDuration>180000</cooldownTicksDuration>
+						</li>
+						<li>
+							<def>ConversionRitual</def>
+							<Id>264</Id>
+							<sourcePrecept>Precept_1453</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_264_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_264</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<cooldownTicksDuration>180000</cooldownTicksDuration>
+						</li>
+						<li>
+							<def>PreachHealth</def>
+							<Id>265</Id>
+							<sourcePrecept>Precept_1453</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_265_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<ability>Ability_265</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<cooldownTicksDuration>180000</cooldownTicksDuration>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_Relic">
+				<name>시간의 아티팩트</name>
+				<def>IdeoRelic</def>
+				<ID>1454</ID>
+				<randomSeed>-829839263</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>RelicInertCube</thingDef>
+				<stuff>Plasteel</stuff>
+			</li>
+			<li Class="Precept_Relic">
+				<name>공간의 아티팩트</name>
+				<def>IdeoRelic</def>
+				<ID>1455</ID>
+				<randomSeed>587963670</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>RelicInertCube</thingDef>
+				<stuff>Uranium</stuff>
+			</li>
+			<li Class="Precept_Relic">
+				<name>물질의 아티팩트</name>
+				<def>IdeoRelic</def>
+				<ID>1456</ID>
+				<randomSeed>-558648770</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>RelicInertCube</thingDef>
+				<stuff>Gold</stuff>
+			</li>
+		</precepts>
+		<thingStyleCategories />
+		<usedSymbols>
+			<li>이데오 윤리</li>
+			<li>윤리적인</li>
+			<li>윤리학자</li>
+		</usedSymbols>
+		<usedSymbolPacks>
+			<li>윤리</li>
+		</usedSymbolPacks>
+		<style>
+			<hairFrequencies>
+				<vals>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</hairFrequencies>
+			<beardFrequencies>
+				<vals>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</beardFrequencies>
+			<tattooFrequencies>
+				<vals>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</tattooFrequencies>
+			<styleForThingDef>
+				<keys>
+					<li>Ideogram</li>
+				</keys>
+				<values>
+					<li>
+						<category>Totemic</category>
+						<styleDef>Totemic_IdeogramA</styleDef>
+					</li>
+				</values>
+			</styleForThingDef>
+		</style>
+	</ideo>
+</savedideo>

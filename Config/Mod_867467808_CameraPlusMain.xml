@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CameraPlus.CameraPlusSettings">
+		<zoomedOutPercent>24.91068</zoomedOutPercent>
+		<zoomedInPercent>4.954343</zoomedInPercent>
+		<zoomedOutDollyPercent>1.00579</zoomedOutDollyPercent>
+		<zoomedInDollyPercent>1.009099</zoomedInDollyPercent>
+		<zoomedOutScreenEdgeDollyFactor>0.4747727</zoomedOutScreenEdgeDollyFactor>
+		<zoomedInScreenEdgeDollyFactor>0.4631929</zoomedInScreenEdgeDollyFactor>
+		<soundNearness>1</soundNearness>
+		<dotSize>16</dotSize>
+		<hidePawnLabelBelow>16</hidePawnLabelBelow>
+		<customNameStyle>IncludeAnimals</customNameStyle>
+	</ModSettings>
+</SettingsBlock>

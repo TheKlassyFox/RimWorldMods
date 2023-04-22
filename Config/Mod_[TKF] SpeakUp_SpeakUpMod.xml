@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SpeakUp.SpeakUpSettings">
+		<linesPerConversation>5</linesPerConversation>
+		<forceNoTranslate>True</forceNoTranslate>
+	</ModSettings>
+</SettingsBlock>

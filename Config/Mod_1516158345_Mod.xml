@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Bubbles.Settings">
+		<Version>2.5</Version>
+		<DoDrafted>True</DoDrafted>
+		<DoTextColors>True</DoTextColors>
+		<AltitudeBase>20</AltitudeBase>
+		<ScaleMax>1.5</ScaleMax>
+		<FontSize>10</FontSize>
+		<PaddingX>5</PaddingX>
+		<WidthMax>200</WidthMax>
+		<OffsetSpacing>5</OffsetSpacing>
+		<OffsetStart>20</OffsetStart>
+		<OpacityStart>0.75</OpacityStart>
+		<OpacityHover>1</OpacityHover>
+		<FadeLength>500</FadeLength>
+		<Background>RGBA(0.000, 0.000, 0.000, 1.000)</Background>
+		<Foreground>RGBA(1.000, 1.000, 1.000, 1.000)</Foreground>
+		<SelectedBackground>RGBA(1.000, 1.000, 1.000, 1.000)</SelectedBackground>
+	</ModSettings>
+</SettingsBlock>

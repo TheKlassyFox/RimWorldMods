@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.4.3704 rev896</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ratys.madskills</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Mad Skills</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>owlchemist.cherrypicker</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>latta.fsharp.core</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>erdelf.humanoidalienraces</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>rmk.anthrorace</li>
+			<li>mlie.centralizedclimatecontrol</li>
+			<li>derekbickley.ltocolonygroupsfinal</li>
+			<li>proxyer.desurgeries.desurgeries</li>
+			<li>jecrell.doorsexpanded</li>
+			<li>dubwise.dubsbadhygiene.lite</li>
+			<li>dubwise.dubsskylights</li>
+			<li>tory.icons.historical</li>
+			<li>orion.hospitality</li>
+			<li>krkr.locks2</li>
+			<li>ratys.madskills</li>
+			<li>ogre.ogrestack</li>
+			<li>mlie.pawnkindracediversification</li>
+			<li>mehni.pickupandhaul</li>
+			<li>berryragepyre.prisonerrecreation</li>
+			<li>avius.prisonlabor</li>
+			<li>lucifer.realisticrooms</li>
+			<li>rimfridge.kv.rw</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.ideo.iconsandsymbols</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>murmur.walllight</li>
+			<li>bs.xenotypespawncontrol</li>
+			<li>automatic.bionicicons</li>
+			<li>fluffy.blueprints</li>
+			<li>brrainz.cameraplus</li>
+			<li>void.charactereditor</li>
+			<li>bodilpwnz.colonygroupshotkeys</li>
+			<li>caesarv6.damageindicators</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>dubwise.dubsmintminimap</li>
+			<li>jaxe.bubbles</li>
+			<li>krafs.levelup</li>
+			<li>thereallemon.mapreroll</li>
+			<li>mehni.numbers</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>mersid.powertab</li>
+			<li>recolorstockpile.kv.rw</li>
+			<li>jaxe.rimhud</li>
+			<li>krkr.rocketman</li>
+			<li>savestoragesettings.kv.rw</li>
+			<li>cat2002.showhair</li>
+			<li>fluffy.worktab</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>chais.custommusic</li>
+			<li>peppsen.pmusic</li>
+			<li>latta.devl10n</li>
+			<li>destiny.rktm.mod</li>
+			<li>jpt.speakup</li>
+			<li>kamikadza13.all.names</li>
+			<li>nephlite.rimthemeskor</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Cherry Picker</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>FSharp.Core</li>
+			<li>HugsLib</li>
+			<li>Humanoid Alien Races</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>[TKF] Anthro Race</li>
+			<li>Centralized Climate Control (Continued)</li>
+			<li>[LTO] Colony Groups</li>
+			<li>DE Surgeries</li>
+			<li>Doors Expanded</li>
+			<li>Dubs Bad Hygiene Lite</li>
+			<li>Dubs Skylights</li>
+			<li>Historical Religious Symbols</li>
+			<li>Hospitality</li>
+			<li>Locks 2: Lock Them Out!</li>
+			<li>Mad Skills</li>
+			<li>OgreStack</li>
+			<li>Pawnkind Race Diversification (Continued)</li>
+			<li>Pick Up And Haul</li>
+			<li>Prisoner Recreation</li>
+			<li>Prison Labor</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>RimFridge Updated</li>
+			<li>Simple sidearms</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Ideology Expanded - Icons and Symbols</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Wall Light</li>
+			<li>Xenotype Spawn Control</li>
+			<li>Bionic icons</li>
+			<li>Blueprints</li>
+			<li>Camera+</li>
+			<li>Character Editor</li>
+			<li>Colony Groups Hotkeys</li>
+			<li>Damage Indicators [1.4]</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Minimap</li>
+			<li>Interaction Bubbles</li>
+			<li>Level Up!</li>
+			<li>Map Reroll (1.4)</li>
+			<li>Numbers</li>
+			<li>Performance Optimizer</li>
+			<li>Power Tab</li>
+			<li>[KV] ReColor Stockpile &amp; Growing Zones</li>
+			<li>RimHUD</li>
+			<li>RocketMan - Performance Mod</li>
+			<li>[KV] Save Storage, Outfit, Crafting, Drug, &amp; Operation Settings [1.4]</li>
+			<li>[CAT] Show Hair With Hats or Hide All Hats</li>
+			<li>Work Tab</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Custom Music</li>
+			<li>P-Music</li>
+			<li>Dev In Your Language</li>
+			<li>[RKTM] Mod</li>
+			<li>[TKF] SpeakUp</li>
+			<li>[TKF] Translated names</li>
+			<li>RimThemes | Korean</li>
+		</names>
+	</modList>
+</savedModList>
